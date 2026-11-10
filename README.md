@@ -4,3 +4,5 @@ This project focus on setting up a virtual cybersecurity and Penetration-testing
 The purpose of the lab is to create a controlled environment where cybersecurity tools, network scanning, reconnaissance, vulnerability assessment, and other security-testing activities can be performed safely and repeatedly
 
 The lab is configured in a private virtual network so that additional machines can be added later and used as targets for authorized security testing
+
+This is a grate learning process for me to start adding more knowledge in cybersecurity
